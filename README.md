@@ -3365,3 +3365,7 @@ https://universal-blue.org/
 ### Bndtools
 Build tools for OSGi based applications.
 https://bndtools.org
+
+### Lakota Robotics (FRC 1038)
+Inspiring students in grades 7 through 12 to pursue careers in science, engineering, and technology through a free community robotics program.
+https://lakotarobotics.org
